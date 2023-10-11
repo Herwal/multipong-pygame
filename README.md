@@ -1,1 +1,1 @@
-# rockPaperScissorsPygame
+# MultiPongPygame
